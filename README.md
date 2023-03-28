@@ -3,6 +3,7 @@
 I live in Kazakhstan, Astana.
 This is my GitHub profile.
 If you're reading this text, I'm probably coding.
+
 ---
 ✉️ My e-mail: khafmann@gmail.com
 ---
